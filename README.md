@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Giancarlo! 
+# Hi there, I'm Giancarlo! 
 
 I am a seasoned developer with over 20 years of experience in the industry. Throughout my career, I have gained expertise in a variety of programming languages, including ⚡SAPUI5, Python, C#, PHP, ABAP, and Javascript⚡. I have worked on a wide range of projects, ranging from small websites to large enterprise applications. My ability to adapt to new technologies and methodologies has allowed me to consistently deliver high-quality work.
 
